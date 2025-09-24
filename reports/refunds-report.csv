@@ -1,0 +1,2 @@
+"Refund ID","Payment ID","Refund Created At","Customer ID","Customer Name","Customer Email","Refund Type","Refund Reason","Refund Amount","Refund Currency","Refund Settlement Amount","Refund Settlement Tax","Refund Settlement Currency","Refund Fee","Refund Status","Payment Method","Payment Method Type"
+"ref_uTYBYRdDVyigplHnwgmuN","pay_9YIbT6nnnmSgrTpn3FTqI","2025-09-23 05:14:22.228160","cus_QBS8qYKadLxytsoFbbFKX","Nitin Bansal","nitinbansal85@gmail.com","full","Testing-refund-1",88.46,"INR",88.46,13.49,"INR",10,"pending","upi","upi_collect"

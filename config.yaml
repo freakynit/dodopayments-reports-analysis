@@ -1,0 +1,30 @@
+reports:
+  account-summary:
+    module: account_summary
+    csv: ./reports/account-summary-report.csv
+    title: Analysis - Account Summary Report
+    output: ./extracted-insights/account-summary-report.md
+
+  payments:
+    module: payments
+    csv: ./reports/payments-report.csv
+    title: Analysis - Payments Report
+    output: ./extracted-insights/payments-report.md
+
+  sales:
+    module: sales
+    csv: ./reports/sales-report.csv
+    title: Analysis - Sales Report
+    output: ./extracted-insights/sales-report.md
+
+  refunds:
+    module: refunds
+    csv: ./reports/refunds-report.csv
+    title: Analysis - Refunds Report
+    output: ./extracted-insights/refunds-report.md
+
+  customer:
+    module: customer
+    csv: ./reports/customer-report.csv
+    title: Analysis - Customer Report
+    output: ./extracted-insights/customer-report.md
