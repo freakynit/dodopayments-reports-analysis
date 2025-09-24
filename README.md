@@ -7,7 +7,7 @@
   - Payments Report
   - Refunds Report
   - Sales Report
-- For others, I did not have any data, hence, couldn't add. But they can be added easily. See section [Add New Report](#add-new-report) below.
+- For others, I did not have any data, hence, couldn't add. But they can be added easily. See section [Adding New Reports](#adding-new-reports) below.
 
 ### Sample Reports
 1. These were generated based off my account which does NOT have any real sales and very little data.
